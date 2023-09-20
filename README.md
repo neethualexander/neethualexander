@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Neethu Alexander 👋
 
 <h3 align="center">A passionate MERN STACK  Developerfrom India</h3>
 
