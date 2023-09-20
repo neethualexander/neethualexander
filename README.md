@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate MERN STACK from India</h3>
+<h3 align="center">A passionate MERN STACK  Developerfrom India</h3>
 
 - 🔭 I’m currently working on **web development**
 
